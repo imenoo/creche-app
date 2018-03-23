@@ -1,0 +1,28 @@
+
+
+.monlogo {
+    width:300px;
+    margin-left:170px;
+    
+  }
+  
+  
+  .header{
+  
+  display: flex;
+  align-content: space-between;
+  
+  }
+  
+  .search{
+    display:flex;
+    margin-top: 40px;
+    margin-left: 500px;
+    width: 200px;
+  }
+  .global{
+    display: flex;
+  }
+  .montitleone{
+    text-align: center;
+  }

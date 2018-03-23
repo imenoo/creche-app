@@ -1,0 +1,14 @@
+.bloc{
+
+    border-radius:5px; 
+    border:1px solid black;
+    width:400px;
+    height:200px;
+    margin-top: 100px;
+    margin-left: 200px
+}
+.monbouton{
+margin-left:160px;
+margin-top:50px;
+
+}
